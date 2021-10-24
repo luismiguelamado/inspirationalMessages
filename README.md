@@ -7,6 +7,6 @@ The project uses modern ES6 syntax.
 
 ## How to install?
 
-** Clone this repository 
-** Run node index.js 
-** Check for the inspirational setence in the console
++ Clone this repository 
++ Run node index.js 
++ Check for the inspirational setence in the console
